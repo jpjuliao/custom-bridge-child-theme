@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Child Style & Scripts
+ * Child Style & Script
  */
 
 function child_enqueue_scripts() {
